@@ -1,1 +1,2 @@
-# Checker new gifts - notifies about the release of a new gift via telegram
+# Checker new gifts
+Notifies about the release of a new gift via telegram
